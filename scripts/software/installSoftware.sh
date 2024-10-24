@@ -8,6 +8,7 @@ pacmanPackages=(
   "dmenu"                  # dynamic menu for X
   "dunst"                  # notification-daemon
   "eza"                    # modern replacement for ls
+  "fastfetch"              # A feature-rich and performance oriented neofetch like system information tool
   "feh"                    # image viewer, used to set the background image
   "fzf"                    # command-line fuzzy finde
   "krusader"               # file manager
